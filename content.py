@@ -1,1 +1,1 @@
-print("bwlqr")
+print("isrwx")
